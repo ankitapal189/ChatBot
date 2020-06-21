@@ -1,7 +1,6 @@
 # DEPRECATED
 __This project was built in 2016 (the old tensorflow era), and some design choices no longer
-make sense under the new tensorflow. You are likely to find better seq2seq tutorial/implementation somewhere else.__
-
+make sense under the new tensorflow. 
 ## seq2seq_chatbot
 An implementation of Seq2seq chatbot in tensorflow.
 
